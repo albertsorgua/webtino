@@ -1,0 +1,117 @@
+body {
+    color: #DAB820;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#titulo h1 {
+    font-size: 100px;
+}
+
+#titulo img,
+h1 {
+    display: inline;
+}
+
+#titulo img,
+h2 {
+    display: inline;
+}
+
+#titulo img {
+    float: left;
+}
+
+#Burguers img {
+    width: 360px;
+    height: 250px;
+}
+
+#frankfurts img {
+    width: 360px;
+    height: 250px;
+}
+
+#salchichas img {
+    width: 360px;
+    height: 250px;
+}
+
+#menus img {
+    width: 360px;
+    height: 250px;
+}
+
+
+#bocadillos img {
+    width: 360px;
+    height: 250px;
+}
+
+#complementos img {
+    width: 360px;
+    height: 250px;
+}
+
+.form {
+    text-align: center;
+}
+
+#contacto {
+    float: left;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 140px;
+}
+
+#enlaces {
+    float: right;
+    text-align: center;
+    padding-right: 400px;
+}
+
+#leo-boeck,
+#moruna,
+#picante,
+#ternera,
+#vegana {
+    display: inline-block;
+    text-align: center;
+}
+
+#frankfurt,
+#PIKANTWURTS,
+#CERVELA,
+#BOCKWURTS {
+    display: inline-block;
+    text-align: center;
+}
+
+#BRATWURTS,
+#TIROLESA,
+#MALAGUEÑA,
+#SALCHIPINCHO,
+#PAÍS,
+#BUTIFARRA,
+#CRIOLLO,
+#KRAKOSKI,
+#CHISTORRA,
+#GROBE {
+    display: inline-block;
+    text-align: center;
+}
+
+#LOMO,
+#TERNERA,
+#BACON,
+#BIKINI {
+    display: inline-block;
+    text-align: center;
+}
+
+#NUGGETS,
+#TEQUEÑOS,
+#PATATAS {
+    display: inline-block;
+    text-align: center;
+}
